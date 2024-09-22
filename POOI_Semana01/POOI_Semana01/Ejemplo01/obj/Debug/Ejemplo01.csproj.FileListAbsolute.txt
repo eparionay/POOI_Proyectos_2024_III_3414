@@ -1,0 +1,7 @@
+D:\POOI_Proyectos\POOI_Semana01\Ejemplo01\bin\Debug\Ejemplo01.exe.config
+D:\POOI_Proyectos\POOI_Semana01\Ejemplo01\bin\Debug\Ejemplo01.exe
+D:\POOI_Proyectos\POOI_Semana01\Ejemplo01\bin\Debug\Ejemplo01.pdb
+D:\POOI_Proyectos\POOI_Semana01\Ejemplo01\obj\Debug\Ejemplo01.csproj.AssemblyReference.cache
+D:\POOI_Proyectos\POOI_Semana01\Ejemplo01\obj\Debug\Ejemplo01.csproj.CoreCompileInputs.cache
+D:\POOI_Proyectos\POOI_Semana01\Ejemplo01\obj\Debug\Ejemplo01.exe
+D:\POOI_Proyectos\POOI_Semana01\Ejemplo01\obj\Debug\Ejemplo01.pdb

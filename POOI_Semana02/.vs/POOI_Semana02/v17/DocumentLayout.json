@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\epariona\\Desktop\\POOI_Semana02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6586227E-27D2-4BC7-830A-DCAE9A0AA936}|Problema02\\Problema02.csproj|c:\\users\\epariona\\desktop\\pooi_semana02\\problema02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6586227E-27D2-4BC7-830A-DCAE9A0AA936}|Problema02\\Problema02.csproj|solutionrelative:problema02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F399FC5-BCBD-46E6-8F5D-5616CBE0BB02}|Problema01\\Problema01.csproj|c:\\users\\epariona\\desktop\\pooi_semana02\\problema01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F399FC5-BCBD-46E6-8F5D-5616CBE0BB02}|Problema01\\Problema01.csproj|solutionrelative:problema01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233596A8-B133-46BD-A1F3-EC3F6BAA47E2}|Problema07\\Problema07.csproj|c:\\users\\epariona\\desktop\\pooi_semana02\\problema07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233596A8-B133-46BD-A1F3-EC3F6BAA47E2}|Problema07\\Problema07.csproj|solutionrelative:problema07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 40,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\epariona\\Desktop\\POOI_Semana02\\Problema02\\Program.cs",
+              "RelativeDocumentMoniker": "Problema02\\Program.cs",
+              "ToolTip": "C:\\Users\\epariona\\Desktop\\POOI_Semana02\\Problema02\\Program.cs",
+              "RelativeToolTip": "Problema02\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:54:45.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\epariona\\Desktop\\POOI_Semana02\\Problema01\\Program.cs",
+              "RelativeDocumentMoniker": "Problema01\\Program.cs",
+              "ToolTip": "C:\\Users\\epariona\\Desktop\\POOI_Semana02\\Problema01\\Program.cs",
+              "RelativeToolTip": "Problema01\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:54:35.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\epariona\\Desktop\\POOI_Semana02\\Problema07\\Program.cs",
+              "RelativeDocumentMoniker": "Problema07\\Program.cs",
+              "ToolTip": "C:\\Users\\epariona\\Desktop\\POOI_Semana02\\Problema07\\Program.cs",
+              "RelativeToolTip": "Problema07\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T23:27:50.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

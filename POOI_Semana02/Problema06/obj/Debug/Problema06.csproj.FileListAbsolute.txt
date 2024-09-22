@@ -1,0 +1,15 @@
+D:\Descargas\POOI_Semana02\Problema06\bin\Debug\Problema06.exe.config
+D:\Descargas\POOI_Semana02\Problema06\bin\Debug\Problema06.exe
+D:\Descargas\POOI_Semana02\Problema06\bin\Debug\Problema06.pdb
+D:\Descargas\POOI_Semana02\Problema06\obj\Debug\Problema06.csproj.AssemblyReference.cache
+D:\Descargas\POOI_Semana02\Problema06\obj\Debug\Problema06.csproj.SuggestedBindingRedirects.cache
+D:\Descargas\POOI_Semana02\Problema06\obj\Debug\Problema06.csproj.CoreCompileInputs.cache
+D:\Descargas\POOI_Semana02\Problema06\obj\Debug\Problema06.exe
+D:\Descargas\POOI_Semana02\Problema06\obj\Debug\Problema06.pdb
+C:\Users\epariona\Desktop\POOI_Semana02\Problema06\bin\Debug\Problema06.exe.config
+C:\Users\epariona\Desktop\POOI_Semana02\Problema06\bin\Debug\Problema06.exe
+C:\Users\epariona\Desktop\POOI_Semana02\Problema06\bin\Debug\Problema06.pdb
+C:\Users\epariona\Desktop\POOI_Semana02\Problema06\obj\Debug\Problema06.csproj.AssemblyReference.cache
+C:\Users\epariona\Desktop\POOI_Semana02\Problema06\obj\Debug\Problema06.csproj.CoreCompileInputs.cache
+C:\Users\epariona\Desktop\POOI_Semana02\Problema06\obj\Debug\Problema06.exe
+C:\Users\epariona\Desktop\POOI_Semana02\Problema06\obj\Debug\Problema06.pdb

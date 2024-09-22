@@ -1,0 +1,2 @@
+C:\Users\epariona\Desktop\POOI_Semana02\Problema02\obj\Debug\Problema02.csproj.AssemblyReference.cache
+C:\Users\epariona\Desktop\POOI_Semana02\Problema02\obj\Debug\Problema02.csproj.CoreCompileInputs.cache

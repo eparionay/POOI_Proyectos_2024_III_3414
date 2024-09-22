@@ -1,0 +1,7 @@
+D:\POOI_Proyectos\POOI_Semana01\Problema03\bin\Debug\Problema03.exe.config
+D:\POOI_Proyectos\POOI_Semana01\Problema03\bin\Debug\Problema03.exe
+D:\POOI_Proyectos\POOI_Semana01\Problema03\bin\Debug\Problema03.pdb
+D:\POOI_Proyectos\POOI_Semana01\Problema03\obj\Debug\Problema03.csproj.AssemblyReference.cache
+D:\POOI_Proyectos\POOI_Semana01\Problema03\obj\Debug\Problema03.csproj.CoreCompileInputs.cache
+D:\POOI_Proyectos\POOI_Semana01\Problema03\obj\Debug\Problema03.exe
+D:\POOI_Proyectos\POOI_Semana01\Problema03\obj\Debug\Problema03.pdb
